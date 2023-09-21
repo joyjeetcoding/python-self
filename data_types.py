@@ -1,12 +1,13 @@
 # none -> not assigned with any value
-# numeric -> int, float, complex, bool
+# ------------- Numeric-----------
+# int, float, complex, bool
 
 # float
-# num = 2.5
+num = 2.5
 # print(type(num))
 
 # int
-# num = 5
+num = 5
 # print(type(num))
 
 # complex
@@ -26,8 +27,10 @@ c = complex(b, k) #converted to complex
 # print(c)
 # print(type(c))
 
+# boolean
 # print(b > k)
 
+# ------------- Numeric ends -------------
 
 # ------- Sequence -----------
 
