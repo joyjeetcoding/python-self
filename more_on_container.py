@@ -24,3 +24,9 @@ print("The address of the number 10 only which has the garbage value",id(10))
 
 x = 18.9
 print(type(x))
+
+PI = 3.14
+print(PI)
+
+PI = 4
+print(PI)
